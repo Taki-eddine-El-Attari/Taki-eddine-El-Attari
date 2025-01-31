@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://github.com/user-attachments/assets/44111b67-7c01-4130-aa61-1a864a08bf39">
 <!--
 **Taki-eddine-El-Attari/Taki-eddine-El-Attari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
