@@ -15,11 +15,15 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-👨💻 Hi, I'm Taki Eddine El Attari  <br><br>🎓 Software Engineering Student at FST Tanger (3rd Year) | Passionate about merging code with creativity.  <br>💡 Problem-Solver | Thrive on tackling challenges with analytical thinking and elegant solutions.  <br>🎨 UI/UX Design Enthusiast | Crafting intuitive interfaces that balance aesthetics and functionality.  <br>📽️ Video Editing Hobbyist | Transforming ideas into visual stories with tools like Premiere Pro & After Effects.  <br>🚀 Continuous Learner | Exploring new frameworks, design trends, and collaborative projects.  <br><br>📫 Let’s connect and create something awesome!</p>
+👨💻 Hi, I'm Taki Eddine El Attari  <br><br>🎓 Software Engineering Student at FST Tanger (3rd Year) | Passionate about merging code with creativity.  <br>💡 Problem-Solver | Thrive on tackling challenges with analytical thinking and elegant solutions.  <br>🎨 UI/UX Design Enthusiast | Crafting intuitive interfaces that balance aesthetics and functionality.  <br>📽️ Video Editing Hobbyist | Transforming ideas into visual stories with tools like Premiere Pro & After Effects.  <br>🚀 Continuous Learner | Exploring new frameworks, design trends, and collaborative projects. <br><br>📫 Let’s connect and create something awesome!  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"> </p>
+
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="17" style="vertical-align: middle;" />
+  <span style="vertical-align: middle;">Language and tools</span>
+</h3>
 
 ###
 
