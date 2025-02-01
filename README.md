@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taki-eddine-El-Attari.Taki-eddine-El-Attari&"  />
-</div>
-
-###
-
 <h1 align="center">Hello and welcome to my profile section👋</h1>
 
 ###
