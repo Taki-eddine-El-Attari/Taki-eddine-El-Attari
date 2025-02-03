@@ -64,7 +64,7 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Taki-eddine-El-Attari&hide=issues&show=prs_merged&show_icons=true&theme=tokyonight" height="200" alt="streak graph"/>
   <br><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taki-eddine-El-Attari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taki-eddine-El-Attari&size_weight=0.5&count_weight=0.5&hide_progress=true&theme=tokyonight&langs_count=6" alt="languages graph"  />
 </div>
 
 ###
