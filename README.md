@@ -62,7 +62,7 @@
 ###
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Taki-eddine-El-Attari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+   <img src="https://streak-stats.demolab.com?user=Taki-eddine-El-Attari&theme=github-dark-blue" height="200" alt="streak graph"/>
   <br><br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Taki-eddine-El-Attari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
