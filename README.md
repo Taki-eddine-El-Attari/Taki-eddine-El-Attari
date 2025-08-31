@@ -14,8 +14,16 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
+<p align="left">🌐 My Portfolio : <strong><a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">takieddine.me</a></strong></p>
 <p align="left">
-👨💻 Hi, I'm Taki Eddine El Attari  <br><br> 🌐 My Portfolio : <a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">takieddine.me</a> <br><br> 🎓 Junior Full-Stack Developer | Passionate about merging code with creativity.  <br>💡 Problem-Solver | Thrive on tackling challenges with analytical thinking and elegant solutions.  <br>🎨 UI/UX Design Enthusiast | Crafting intuitive interfaces that balance aesthetics and functionality.  <br>📽️ Video Editing Hobbyist | Transforming ideas into visual stories with tools like Premiere Pro & After Effects.  <br>🚀 Continuous Learner | Exploring new frameworks, design trends, and collaborative projects. <br><br>📫 Let’s connect and create something awesome!  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"> </p>
+  I am a <strong>Full Stack MEAN Developer</strong> with a passion for building modern, high-performance web applications. With a strong foundation in the MEAN stack (MongoDB, Express.js, Angular, Node.js), I enjoy tackling new technical challenges and turning complex problems into elegant solutions.
+</p>
+
+<ul>
+  <li>🔭 I’m currently a Frontend Developer at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>, designing the UI for an e-commerce platform using Angular.</li>
+  <li>🌱 My experience includes developing a B2B marketplace with AI chatbot integration and creating full-stack blog and event management applications.</li>
+</ul>
+<p align="left">📫 Let’s connect and create something awesome!  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"> </p>
 
 
 ###
