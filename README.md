@@ -21,7 +21,7 @@
 
 <ul>
   <li>🔭 I recently concluded my role at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>, having crafted custom Angular UI experiences for <a href="https://naaora.com" target="_blank" rel="noopener noreferrer">Naaora</a> platform.</li>
-  <li>🌱 My experience includes developing a B2B marketplace with AI chatbot integration and creating full-stack blog and event management applications.</li>
+  <li>🌱 My experience includes developing a B2B marketplace with AI chatbot integration at <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a>, and creating full-stack blog and event management applications.</li>
 </ul>
 <p align="left">📫 Let’s connect and create something awesome!  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"> </p>
 
