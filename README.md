@@ -55,6 +55,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="43" alt="tailwindcss logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/primeng/primeng-original.svg" height="43" alt="primeng logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="38" alt="shadcn ui logo" />
+  <img width="12" />
+
+
+
+
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo" />
