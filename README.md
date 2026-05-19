@@ -13,17 +13,15 @@
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
-
 <p align="left">🌐 My Portfolio : <strong><a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">takieddine.me</a></strong></p>
 <p align="left">
-  I am a <strong>Full Stack MEAN Developer</strong> with a passion for building modern, high-performance web applications. With a strong foundation in the MEAN stack (MongoDB, Express.js, Angular, Node.js), I enjoy tackling new technical challenges and turning complex problems into elegant solutions.
+  I am a <strong>Master's Student in AI & Data Science</strong> passionate about turning raw data into intelligent solutions. With hands-on experience in Machine Learning, Deep Learning, NLP, and Big Data, I enjoy tackling real-world challenges and building end-to-end data-driven systems.
 </p>
-
 <ul>
-  <li>🔭 I recently concluded my role at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>, having crafted custom Angular UI experiences for <a href="https://naaora.com" target="_blank" rel="noopener noreferrer">Naaora</a> platform.</li>
-  <li>🌱 My experience includes developing a B2B marketplace with AI chatbot integration at <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a>, and creating full-stack blog and event management applications.</li>
-</ul>
-<p align="left">📫 Let’s connect and create something awesome!  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"> </p>
+  <li>🤖 Currently building projects in <strong>Deep Learning, NLP, Big Data pipelines</strong> and <strong>LLM integration</strong> — including real-time sentiment analysis, automatic sign language translation, and AutoML platforms.</li>
+    <li>🌱 Former Full Stack MEAN Developer — experienced with end-to-end deployment, REST APIs, and AI chatbot integration at <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a>, and having crafted custom Angular UI experiences at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>.</li>
+
+<p align="left">📫 Let's connect and build something intelligent! <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"></p>
 
 
 ###
