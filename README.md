@@ -126,8 +126,7 @@
 ###
 <br>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Taki-eddine-El-Attari&theme=tokyonight" />
-  <br><br>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>  <br><br>
      <!-- src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taki-eddine-El-Attari&theme=tokyonight" -->
 
 </div>
