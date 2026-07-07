@@ -20,7 +20,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=Taki-eddine-El-Attari&theme=default&disable_animations=true
+          options: user=Taki-eddine-El-Attari&theme=tokyonight&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
