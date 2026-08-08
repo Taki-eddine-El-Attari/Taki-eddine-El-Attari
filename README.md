@@ -154,6 +154,8 @@ Pacman
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taki-eddine-El-Attari/Taki-eddine-El-Attari/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taki-eddine-El-Attari/Taki-eddine-El-Attari/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+Breakout
 -->
 
 <picture data-importer="pacman">
@@ -162,3 +164,8 @@ Pacman
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taki-eddine-El-Attari/Taki-eddine-El-Attari/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taki-eddine-El-Attari/Taki-eddine-El-Attari/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taki-eddine-El-Attari/Taki-eddine-El-Attari/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Taki-eddine-El-Attari/Taki-eddine-El-Attari/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
