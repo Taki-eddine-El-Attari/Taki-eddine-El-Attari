@@ -17,6 +17,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">🌐 My Portfolio : <strong><a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">takieddine.me</a></strong></p>
+<!--
 <p align="left">
   I am a <strong>Master's Student in AI & Data Science</strong> passionate about turning raw data into intelligent solutions. With hands-on experience in Machine Learning, Deep Learning, NLP, and Big Data, I enjoy tackling real-world challenges and building end-to-end data-driven systems.
 </p>
@@ -24,7 +25,16 @@
   <li>🤖 Currently building projects in <strong>Deep Learning, NLP, Big Data pipelines</strong> and <strong>LLM integration</strong> — including real-time sentiment analysis, automatic sign language translation, and AutoML platforms. Browse them all on <a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
   <li>📊 Built <strong>Riskly</strong> at <a href="http://www.cloudmarketinghub.net" target="_blank" rel="noopener noreferrer">Cloud Marketing Hub</a> — an internal ML decision-support tool (<strong>FastAPI + XGBoost + SHAP</strong>, React/TS frontend) that scores domain risk and email-deliverability health before acquisition.</li>
     <li>🌱 Former Full Stack MEAN Developer — experienced with end-to-end deployment, REST APIs, and AI chatbot integration at <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a>, and having crafted custom Angular UI experiences at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>.</li>
+-->
 
+<p align="left">
+  I am a <strong>Master's student in AI & Data Science</strong>. I work mostly on machine learning, NLP, and the data pipelines that feed them, and I like taking a project all the way from raw data to something people can actually use.
+</p>
+<ul>
+  <li>🤖 Right now I am building a real-time sentiment analysis system, an automatic sign language translator, and an AutoML platform, mostly with deep learning, NLP and LLMs. They are all on <a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
+  <li>📊 At <a href="http://www.cloudmarketinghub.net" target="_blank" rel="noopener noreferrer">Cloud Marketing Hub</a> I built <strong>Riskly</strong>, an internal tool that checks how risky a domain is and how healthy its email deliverability looks before the team buys it. FastAPI and XGBoost do the scoring, SHAP explains why a domain got that score, and the frontend is React and TypeScript.</li>
+  <li>🌱 Before AI I was a full stack MEAN developer. I built REST APIs, handled deployment and added AI chatbots at <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a>, and built custom Angular interfaces at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>.</li>
+</ul>
 <p align="left">📫 Let's connect and build something intelligent! <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"></p>
 
 
