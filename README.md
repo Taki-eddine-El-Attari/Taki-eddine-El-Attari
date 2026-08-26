@@ -16,7 +16,7 @@
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
-<p align="left">🌐 My Portfolio : <strong><a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">takieddine.tech</a></strong></p>
+<p align="left">🌐 My Portfolio : <strong><a href="https://takieddine.tech" target="_blank" rel="noopener noreferrer">takieddine.tech</a></strong></p>
 <!--
 <p align="left">
   I am a <strong>Master's Student in AI & Data Science</strong> passionate about turning raw data into intelligent solutions. With hands-on experience in Machine Learning, Deep Learning, NLP, and Big Data, I enjoy tackling real-world challenges and building end-to-end data-driven systems.
