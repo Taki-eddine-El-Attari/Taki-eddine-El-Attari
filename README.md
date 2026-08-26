@@ -31,7 +31,7 @@
   I am a <strong>Master's student in AI & Data Science</strong>. I work mostly on machine learning, NLP, and the data pipelines that feed them, and I like taking a project all the way from raw data to something people can actually use.
 </p>
 <ul>
-  <li>🤖 Right now I am building a real-time sentiment analysis system, an automatic sign language translator, and an AutoML platform, mostly with deep learning, NLP and LLMs. They are all on <a href="https://takieddine.me" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
+  <li>🤖 Right now I am building a real-time sentiment analysis system, an automatic sign language translator, and an AutoML platform, mostly with deep learning, NLP and LLMs. They are all on <a href="https://takieddine.tech" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
   <li>📊 At <a href="http://www.cloudmarketinghub.net" target="_blank" rel="noopener noreferrer">Cloud Marketing Hub</a> I built <strong>Riskly</strong>, an internal tool that checks how risky a domain is and how healthy its email deliverability looks before the team buys it. FastAPI and XGBoost do the scoring, SHAP explains why a domain got that score, and the frontend is React and TypeScript.</li>
   <li>🌱 Before AI I was a full stack MEAN developer. I built REST APIs, handled deployment and added AI chatbots at <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a>, and built custom Angular interfaces at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>.</li>
 </ul>
