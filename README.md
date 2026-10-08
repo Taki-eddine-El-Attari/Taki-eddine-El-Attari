@@ -28,12 +28,17 @@
 -->
 
 <p align="left">
-  I am a <strong>Master's student in AI & Data Science</strong>. I work mostly on machine learning, NLP, and the data pipelines that feed them, and I like taking a project all the way from raw data to something people can actually use.
+  I am an <strong>AI & Machine Learning Engineer</strong> in the final year of a Master's in AI & Data Science. I train machine learning and deep learning models, build LLM-powered solutions like AI agents, RAG systems and workflow automations, and ship them as real applications with APIs, Docker and CI/CD.
 </p>
+
+<p align="left">
+  🎯 I am looking for a <strong>6-month PFE internship starting February 2027</strong>.
+</p>
+
 <ul>
-  <li>🤖 Right now I am building a real-time sentiment analysis system, an automatic sign language translator, and an AutoML platform, mostly with deep learning, NLP and LLMs. They are all on <a href="https://takieddine.tech" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
+  <li>🤖 Right now I am building a real-time sentiment analysis system, an automatic sign language translator and an AutoML platform, using deep learning, NLP and LLMs. You can also chat with  <strong>takibot</strong>, my RAG assistant that answers questions about my work, on <a href="https://takieddine.tech" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
   <li>📊 At <a href="http://www.cloudmarketinghub.net" target="_blank" rel="noopener noreferrer">Cloud Marketing Hub</a> I built <strong>Riskly</strong>, an internal tool that checks how risky a domain is and how healthy its email deliverability looks before the team buys it. FastAPI and XGBoost do the scoring, SHAP explains why a domain got that score, and the frontend is React and TypeScript.</li>
-  <li>🌱 Before AI I was a full stack MEAN developer. I built REST APIs, handled deployment and added AI chatbots at <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a>, and built custom Angular interfaces at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a>.</li>
+  <li>🌱 I also have a full-stack background. At <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a> I built REST APIs on the MEAN stack,  handled deployment and integrated a RAG chatbot into a B2B marketplace, and at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a> I built custom Angular interfaces. That is why my models don't stay in notebooks: I take them all the way to a working product.</li>
 </ul>
 <p align="left">📫 Let's connect and build something intelligent! <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"></p>
 
