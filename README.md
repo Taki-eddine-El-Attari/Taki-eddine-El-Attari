@@ -53,6 +53,46 @@
 ###
 
 <div align="center">
+  <!-- AI & Machine Learning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="43" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="43" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="39" alt="hugging face logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ollama/000000/white" height="39" alt="ollama logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/n8n" height="39" alt="n8n logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="39" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/claudecode" height="43" alt="claude code logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/light/antigravity-color.png" height="39" alt="antigravity logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opencode/000000/white" height="39" alt="opencode logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cursor/000000/white" height="39" alt="cursor logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="39" alt="kaggle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="43" alt="google colab logo" />
+  <img width="12" />
+
+  <!-- Data & Big Data -->
+  <img src="https://cdn.simpleicons.org/pandas/150458/white" height="39" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="39" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20/white" height="39" alt="apache kafka logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="39" alt="apache spark logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="39" alt="apache airflow logo" />
+  <img width="12" />
+
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo" />
   <img width="12" />
@@ -63,6 +103,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="38" alt="angular logo" />
   <img width="12" />
@@ -76,33 +118,37 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/primeng/primeng-original.svg" height="43" alt="primeng logo" />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="38" alt="shadcn ui logo" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&amp;v=4" height="38" alt="shadcn ui logo" />
   <img width="12" />
-
-
-
-
 
   <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="43" alt="fastapi logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="expressjs logo" />
+  <img src="https://cdn.simpleicons.org/express/000000/white" height="34" alt="expressjs logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastify/000000/white" height="34" alt="fastify logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/django/092E20/44B78B" height="39" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="43" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="43" alt="laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" height="43" alt="fastapi logo" />
-  <img width="12" />
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="43" alt="mongodb logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="43" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748/white" height="39" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="39" alt="firebase logo" />
   <img width="12" />
 
   <!-- Programming Languages -->
@@ -112,19 +158,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
-  <img width="12" />
 
   <!-- Tools & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" alt="github logo" />
+  <img src="https://cdn.simpleicons.org/github/181717/white" height="39" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="43" alt="gitlab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="43" alt="docker logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="39" alt="kubernetes logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="43" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="39" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pm2/2B037A/white" height="39" alt="pm2 logo" />
+  <img width="12" />
+  <img src="https://github.com/hestiacp.png?size=200" height="39" alt="hestiacp logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000/white" height="34" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="39" alt="netlify logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="39" alt="heroku logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="39" alt="cloudflare logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="43" alt="swagger logo" />
   <img width="12" />
@@ -134,8 +194,10 @@
   <!-- Design / 3D -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="38" alt="threejs logo" />
+  <img src="https://cdn.simpleicons.org/threedotjs/000000/white" height="34" alt="threejs logo" />
 </div>
+
+
 
 
 ###
