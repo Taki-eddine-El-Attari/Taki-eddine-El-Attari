@@ -28,7 +28,7 @@
 -->
 
 <p align="left">
-  I am an <strong>AI & Machine Learning Engineer</strong> in the final year of a Master's in AI & Data Science. I train machine learning and deep learning models, build LLM-powered solutions like AI agents, RAG systems and workflow automations, and ship them as real applications with APIs, Docker and CI/CD.
+  I am an <strong>AI &amp; Machine Learning Engineer</strong> in the final year of a Master's in AI &amp; Data Science. I train machine learning and deep learning models, build cloud data pipelines and LLM-powered solutions (AI agents, RAG, workflow automation), and ship them as real applications with APIs, Docker and CI/CD.
 </p>
 
 <p align="left">
@@ -36,9 +36,10 @@
 </p>
 
 <ul>
-  <li>🤖 Right now I am building a real-time sentiment analysis system, an automatic sign language translator and an AutoML platform, using deep learning, NLP and LLMs. You can also chat with  <strong>takibot</strong>, my RAG assistant that answers questions about my work, on <a href="https://takieddine.tech" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
-  <li>📊 At <a href="http://www.cloudmarketinghub.net" target="_blank" rel="noopener noreferrer">Cloud Marketing Hub</a> I built <strong>Riskly</strong>, an internal tool that checks how risky a domain is and how healthy its email deliverability looks before the team buys it. FastAPI and XGBoost do the scoring, SHAP explains why a domain got that score, and the frontend is React and TypeScript.</li>
-  <li>🌱 I also have a full-stack background. At <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a> I built REST APIs on the MEAN stack,  handled deployment and integrated a RAG chatbot into a B2B marketplace, and at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a> I built custom Angular interfaces. That is why my models don't stay in notebooks: I take them all the way to a working product.</li>
+  <li>☁️ Latest project: <a href="https://github.com/Taki-eddine-El-Attari/olist-azure-lakehouse" target="_blank" rel="noopener noreferrer"><strong>Olist Lakehouse on Azure</strong></a>, an end-to-end pipeline on 99,000 e-commerce orders. Data Factory orchestrates a Bronze/Silver/Gold lakehouse on Databricks (PySpark, Delta Lake), a LightGBM model tracked in MLflow predicts late deliveries, and Power BI shows their impact on customer satisfaction.</li>
+  <li>📊 At <a href="http://www.cloudmarketinghub.net" target="_blank" rel="noopener noreferrer">Cloud Marketing Hub</a> I built <strong>Riskly</strong>, an internal tool that checks how risky a domain is and how healthy its email deliverability looks before the team buys it. FastAPI and XGBoost do the scoring, SHAP explains each score, and the frontend is React and TypeScript.</li>
+  <li>🤖 Other projects: a sign language translator (PyTorch, Whisper), an AutoML platform, a real-time sentiment pipeline (Kafka, Spark) and a RAG studio for intrusion detection rules. You can also chat with <strong>takibot</strong>, my RAG assistant, on <a href="https://takieddine.tech" target="_blank" rel="noopener noreferrer">my portfolio</a>.</li>
+  <li>🌱 I also have a full-stack background. At <a href="https://www.linkedin.com/company/smart-automation-technologies" target="_blank" rel="noopener noreferrer">SAT</a> I built REST APIs on the MEAN stack, handled deployment and integrated a RAG chatbot into a B2B marketplace, and at <a href="https://avatechtools.com" target="_blank" rel="noopener noreferrer">Avatech Tools</a> I built custom Angular interfaces. That is why my models don't stay in notebooks: I take them all the way to a working product.</li>
 </ul>
 <p align="left">📫 Let's connect and build something intelligent! <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="80" align="middle"></p>
 
@@ -62,26 +63,38 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/huggingface" height="39" alt="hugging face logo" />
   <img width="12" />
+  <img src="https://github.com/mlflow.png?size=200" height="39" alt="mlflow logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/ollama/000000/white" height="39" alt="ollama logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/n8n" height="39" alt="n8n logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="39" alt="jupyter logo" />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="39" alt="jupyter logo" />
+  <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/claudecode" height="43" alt="claude code logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@1.97.1/light/antigravity-color.png" height="39" alt="antigravity logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencode/000000/white" height="39" alt="opencode logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cursor/000000/white" height="39" alt="cursor logo" />
-  <img width="12" />
+  <!-- <img src="https://cdn.simpleicons.org/opencode/000000/white" height="39" alt="opencode logo" />
+  <img width="12" /> -->
+  <!-- <img src="https://cdn.simpleicons.org/cursor/000000/white" height="39" alt="cursor logo" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="39" alt="kaggle logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="43" alt="google colab logo" />
   <img width="12" />
 
-  <!-- Data & Big Data -->
+  <!-- Data, Cloud & Big Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="39" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/databricks" height="39" alt="databricks logo" />
+  <img width="12" />
+   <img src="https://cdn.prod.website-files.com/68c803b3497f18f5503b830d/68da505ee9382ac2316b3e67_66192bf45f99cf9cd103c8b3_delta.svg" height="34" alt="delta lake logo" />
+  <img width="12" />
+  <img src="https://az-icons.com/images/data-factories/icon.svg" height="39" alt="azure data factory logo" />
+  <img width="12" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="39" alt="power bi logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458/white" height="39" alt="pandas logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="39" alt="numpy logo" />
@@ -110,8 +123,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="43" alt="sveltekit logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo" />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="flutter logo" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="43" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="43" alt="bootstrap logo" />
@@ -164,6 +177,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717/white" height="39" alt="github logo" />
   <img width="12" />
+  <img src="https://github.com/actions.png?size=200" height="39" alt="github actions logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="43" alt="gitlab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="43" alt="docker logo" />
@@ -196,6 +211,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/threedotjs/000000/white" height="34" alt="threejs logo" />
 </div>
+
+
 
 
 
